@@ -5,7 +5,6 @@
 
 > A modern, interactive portfolio website with glassmorphism design, AI chatbot, project showcase, and smooth animations. Built with pure HTML, CSS, and JavaScript.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Portfolio+Screenshot)
 
  ✨ Features
 
@@ -17,7 +16,7 @@
 - Fully Responsive – Works on all devices (mobile, tablet, desktop)
 - Interactive Elements – Tilt card effect, custom cursor glow, ripple buttons, scroll progress bar
 - Contact Form – Simulated form with validation (ready for backend integration)
-- Profile Picture Upload – Upload your own photo (client-side)
+
 
  🛠️ Technologies Used
 
@@ -30,9 +29,9 @@
  📁 Project Structure
 
 portfolio/
-├── index.html           Main HTML file (self-contained)
-├── README.md            This file
-└── (no external assets – all inline)
+    ├── index.html           Main HTML file (self-contained)
+    ├── README.md            This file
+    └── (no external assets – all inline)
 
  🚀 Getting Started
 
